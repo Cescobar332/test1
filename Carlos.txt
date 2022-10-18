@@ -1,0 +1,10 @@
+Fecha de nacimiento: 28/04/2004
+Nombre: Carlos Fernando Escobar Silva
+U00056221
+Clase: Estructura de datos y análisis de algoritmos
+Correo: cescobar332@unab.edu.co
+Wp: 3166071650
+Semestre: 3
+De donde eres? Bucaramanga
+Estado civil: Soltero
+
